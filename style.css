@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    position: relative;
+}
+
+body{
+   
+    color: white;
+    background: url(redcloud.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:background-image 1.5s ease-in-out;
+    height: 100vh;
+    
+   
+    
+
+}
+h1{
+    font-size: 100px;
+}
+h3{
+    font-size: 25px;
+}
+.right{
+    width: 28vw;
+    padding-left: 20px;
+    background-color: rgb(56, 55, 55);
+    height: 100%;
+    opacity: 0.6;
+    overflow-y: scroll;
+}
+input{
+    border: none;
+    border-bottom: 2px solid rgb(201, 195, 195);
+    outline: none;
+    width: 20vw;
+    background-color: black;
+    color: white;
+    margin: 30px 0px;
+    font-size: medium;
+    padding: 10px;
+    background-color: rgb(89, 88, 88);
+    
+}
+li{
+    list-style-type: none;
+
+}
+.line{
+    border: 0.05px solid rgb(154, 149, 149);
+    width: 25vw;
+    height: 0.1 0px;
+}
+.right li{
+    margin: 45px 0px;
+}
+.right h4{
+    margin: 45px 0px;
+}
+.left{
+    display: flex;
+    gap: 35px;
+    width: 72vw;
+    
+   align-items: center;
+   color:white;
+   font-weight: bolder;
+   padding: 0 0 0px 80px;
+  
+   
+   
+   
+   
+  
+   
+}
+.city li:hover{
+    font-size: 25px;
+    font-weight: bolder;
+    cursor: pointer;
+    
+}
+
+.search{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.search button{
+    height: 40px;
+    width: 35px;
+    border: none;
+    background: #fa6d1b;
+    color: #fff;
+    cursor: pointer;
+    
+}
+.search button:hover{
+    cursor: pointer;
+    background-color: red;
+    height: 50px;
+    width: 45px;
+}
+.description{
+    font-size: 30px;
+}
+.pressure{
+    font-weight: bolder
+}
+.longitude{
+    font-weight: bolder
+}
+.wind{
+    font-weight: bolder
+    
+}
+
