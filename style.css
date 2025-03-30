@@ -10,7 +10,7 @@ header{
 body{
    
     color: white;
-    background: url(redcloud.jpg);
+    background: url('/images/redcloud.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     transition:background-image 1.5s ease-in-out;

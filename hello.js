@@ -24,7 +24,7 @@ document.querySelector('.city').addEventListener('click', async (event) => {
 	if (event.target.tagName === 'LI') {
 		// try {
 		if (change == 0) {
-			document.body.style.backgroundImage = "url('cloudyy.jpg')";
+			document.body.style.backgroundImage = "url('/images/cloudyy.jpg')";
 			document.body.style.backgroundRepeat = "no-repeat";
 			// background-size: cover;
 			document.body.style.backgroundSize = "cover";
@@ -32,7 +32,7 @@ document.querySelector('.city').addEventListener('click', async (event) => {
 		}	
 
 		else if (change == 1) {
-			document.body.style.backgroundImage = "url('redcloud.jpg')";
+			document.body.style.backgroundImage = "url('/images/redcloud.jpg')";
 			document.body.style.backgroundRepeat = "no-repeat";
 			// background-size: cover;
 			document.body.style.backgroundSize = "cover";
@@ -40,7 +40,7 @@ document.querySelector('.city').addEventListener('click', async (event) => {
 
 		}
 		else if (change == 2) {
-			document.body.style.backgroundImage = "url('yellow.jpg')";
+			document.body.style.backgroundImage = "url('/images/yellow.jpg')";
 			document.body.style.backgroundRepeat = "no-repeat";
 			// background-size: cover;
 			document.body.style.backgroundSize = "cover";
