@@ -20,7 +20,7 @@
   <p><strong>Installation:</strong></p>
   <ol>
     <li>Clone the repository:</li>
-    <pre>git clone https://github.com/DeepAshishThapa158/Weather-App.git</pre>
+    <pre>https://github.com/DeepAshishThapa/Weather-App.git</pre>
     <li>Navigate to the project directory:</li>
     <pre>cd WEATHER APP</pre>
     
