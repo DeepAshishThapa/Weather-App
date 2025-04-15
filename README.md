@@ -22,6 +22,6 @@
     <li>Clone the repository:</li>
     <pre>https://github.com/DeepAshishThapa/Weather-App.git</pre>
     <li>Navigate to the project directory:</li>
-    <pre>cd WEATHER APP....</pre>
+    <pre>cd WEATHER APP...</pre>
     
   </ol>
